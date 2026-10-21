@@ -1,0 +1,924 @@
+{
+  "version": 1,
+  "exportedAt": "2026-10-21T03:53:34.364Z",
+  "blocks": [
+    {
+      "id": "d0-5-00-Wake-up-and-do-routine",
+      "title": "Wake up and do routine",
+      "description": "",
+      "day": 0,
+      "start": 300,
+      "end": 330,
+      "color": "#f6bf26"
+    },
+    {
+      "id": "d1-5-00-Wake-up-and-do-routine",
+      "title": "Wake up and do routine",
+      "description": "",
+      "day": 1,
+      "start": 300,
+      "end": 330,
+      "color": "#f6bf26"
+    },
+    {
+      "id": "d3-5-00-Wake-up-and-do-routine",
+      "title": "Wake up and do routine",
+      "description": "",
+      "day": 3,
+      "start": 300,
+      "end": 330,
+      "color": "#f6bf26"
+    },
+    {
+      "id": "d4-5-00-Wake-up-and-do-routine",
+      "title": "Wake up and do routine",
+      "description": "",
+      "day": 4,
+      "start": 300,
+      "end": 330,
+      "color": "#f6bf26"
+    },
+    {
+      "id": "d6-5-00-Wake-up-and-do-routine",
+      "title": "Wake up and do routine",
+      "description": "",
+      "day": 6,
+      "start": 300,
+      "end": 330,
+      "color": "#f6bf26"
+    },
+    {
+      "id": "d0-5-30-Workout",
+      "title": "Workout",
+      "description": "",
+      "day": 0,
+      "start": 330,
+      "end": 375,
+      "color": "#d50000"
+    },
+    {
+      "id": "d1-5-30-Workout",
+      "title": "Workout",
+      "description": "",
+      "day": 1,
+      "start": 330,
+      "end": 375,
+      "color": "#d50000"
+    },
+    {
+      "id": "d3-5-30-Workout",
+      "title": "Workout",
+      "description": "",
+      "day": 3,
+      "start": 330,
+      "end": 375,
+      "color": "#d50000"
+    },
+    {
+      "id": "d4-5-30-Workout",
+      "title": "Workout",
+      "description": "",
+      "day": 4,
+      "start": 330,
+      "end": 375,
+      "color": "#d50000"
+    },
+    {
+      "id": "d6-5-30-Workout",
+      "title": "Workout",
+      "description": "",
+      "day": 6,
+      "start": 330,
+      "end": 375,
+      "color": "#d50000"
+    },
+    {
+      "id": "d0-6-15-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 0,
+      "start": 375,
+      "end": 480,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d1-6-15-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 1,
+      "start": 375,
+      "end": 480,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d3-6-15-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 3,
+      "start": 375,
+      "end": 480,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d4-6-15-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 4,
+      "start": 375,
+      "end": 480,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d6-6-15-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 6,
+      "start": 375,
+      "end": 480,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d0-8-00-Breakfast",
+      "title": "Breakfast",
+      "description": "",
+      "day": 0,
+      "start": 480,
+      "end": 510,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d1-8-00-Breakfast",
+      "title": "Breakfast",
+      "description": "",
+      "day": 1,
+      "start": 480,
+      "end": 510,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d3-8-00-Breakfast",
+      "title": "Breakfast",
+      "description": "",
+      "day": 3,
+      "start": 480,
+      "end": 510,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d4-8-00-Breakfast",
+      "title": "Breakfast",
+      "description": "",
+      "day": 4,
+      "start": 480,
+      "end": 510,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d6-8-00-Breakfast",
+      "title": "Breakfast",
+      "description": "",
+      "day": 6,
+      "start": 480,
+      "end": 510,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d0-8-30-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 0,
+      "start": 510,
+      "end": 600,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d1-8-30-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 1,
+      "start": 510,
+      "end": 600,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d3-8-30-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 3,
+      "start": 510,
+      "end": 600,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d4-8-30-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 4,
+      "start": 510,
+      "end": 600,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d6-8-30-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 6,
+      "start": 510,
+      "end": 600,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d0-10-00-Break",
+      "title": "Break",
+      "description": "",
+      "day": 0,
+      "start": 600,
+      "end": 610,
+      "color": "#33b679"
+    },
+    {
+      "id": "d1-10-00-Break",
+      "title": "Break",
+      "description": "",
+      "day": 1,
+      "start": 600,
+      "end": 610,
+      "color": "#33b679"
+    },
+    {
+      "id": "d3-10-00-Break",
+      "title": "Break",
+      "description": "",
+      "day": 3,
+      "start": 600,
+      "end": 610,
+      "color": "#33b679"
+    },
+    {
+      "id": "d4-10-00-Break",
+      "title": "Break",
+      "description": "",
+      "day": 4,
+      "start": 600,
+      "end": 610,
+      "color": "#33b679"
+    },
+    {
+      "id": "d6-10-00-Break",
+      "title": "Break",
+      "description": "",
+      "day": 6,
+      "start": 600,
+      "end": 610,
+      "color": "#33b679"
+    },
+    {
+      "id": "d0-10-10-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 0,
+      "start": 610,
+      "end": 720,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d1-10-10-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 1,
+      "start": 610,
+      "end": 720,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d3-10-10-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 3,
+      "start": 610,
+      "end": 720,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d4-10-10-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 4,
+      "start": 610,
+      "end": 720,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d6-10-10-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 6,
+      "start": 610,
+      "end": 720,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d0-12-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 0,
+      "start": 720,
+      "end": 780,
+      "color": "#039be5"
+    },
+    {
+      "id": "d1-12-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 1,
+      "start": 720,
+      "end": 780,
+      "color": "#039be5"
+    },
+    {
+      "id": "d3-12-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 3,
+      "start": 720,
+      "end": 780,
+      "color": "#039be5"
+    },
+    {
+      "id": "d4-12-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 4,
+      "start": 720,
+      "end": 780,
+      "color": "#039be5"
+    },
+    {
+      "id": "d6-12-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 6,
+      "start": 720,
+      "end": 780,
+      "color": "#039be5"
+    },
+    {
+      "id": "d0-13-00-Read-Book",
+      "title": "Read Book",
+      "description": "",
+      "day": 0,
+      "start": 780,
+      "end": 840,
+      "color": "#0b8043"
+    },
+    {
+      "id": "d1-13-00-Read-Book",
+      "title": "Read Book",
+      "description": "",
+      "day": 1,
+      "start": 780,
+      "end": 840,
+      "color": "#0b8043"
+    },
+    {
+      "id": "d3-13-00-Read-Book",
+      "title": "Read Book",
+      "description": "",
+      "day": 3,
+      "start": 780,
+      "end": 840,
+      "color": "#0b8043"
+    },
+    {
+      "id": "d4-13-00-Read-Book",
+      "title": "Read Book",
+      "description": "",
+      "day": 4,
+      "start": 780,
+      "end": 840,
+      "color": "#0b8043"
+    },
+    {
+      "id": "d6-13-00-Read-Book",
+      "title": "Read Book",
+      "description": "",
+      "day": 6,
+      "start": 780,
+      "end": 840,
+      "color": "#0b8043"
+    },
+    {
+      "id": "d0-14-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 0,
+      "start": 840,
+      "end": 990,
+      "color": "#039be5"
+    },
+    {
+      "id": "d1-14-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 1,
+      "start": 840,
+      "end": 990,
+      "color": "#039be5"
+    },
+    {
+      "id": "d3-14-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 3,
+      "start": 840,
+      "end": 990,
+      "color": "#039be5"
+    },
+    {
+      "id": "d4-14-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 4,
+      "start": 840,
+      "end": 990,
+      "color": "#039be5"
+    },
+    {
+      "id": "d6-14-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 6,
+      "start": 840,
+      "end": 990,
+      "color": "#039be5"
+    },
+    {
+      "id": "d0-16-30-Shower",
+      "title": "Shower",
+      "description": "",
+      "day": 0,
+      "start": 990,
+      "end": 1020,
+      "color": "#7986cb"
+    },
+    {
+      "id": "d1-16-30-Shower",
+      "title": "Shower",
+      "description": "",
+      "day": 1,
+      "start": 990,
+      "end": 1020,
+      "color": "#7986cb"
+    },
+    {
+      "id": "d3-16-30-Shower",
+      "title": "Shower",
+      "description": "",
+      "day": 3,
+      "start": 990,
+      "end": 1020,
+      "color": "#7986cb"
+    },
+    {
+      "id": "d4-16-30-Shower",
+      "title": "Shower",
+      "description": "",
+      "day": 4,
+      "start": 990,
+      "end": 1020,
+      "color": "#7986cb"
+    },
+    {
+      "id": "d6-16-30-Shower",
+      "title": "Shower",
+      "description": "",
+      "day": 6,
+      "start": 990,
+      "end": 1020,
+      "color": "#7986cb"
+    },
+    {
+      "id": "d0-17-00-Personal-Project",
+      "title": "Personal Project",
+      "description": "",
+      "day": 0,
+      "start": 1020,
+      "end": 1140,
+      "color": "#8e24aa"
+    },
+    {
+      "id": "d1-17-00-Personal-Project",
+      "title": "Personal Project",
+      "description": "",
+      "day": 1,
+      "start": 1020,
+      "end": 1140,
+      "color": "#8e24aa"
+    },
+    {
+      "id": "d3-17-00-Personal-Project",
+      "title": "Personal Project",
+      "description": "",
+      "day": 3,
+      "start": 1020,
+      "end": 1140,
+      "color": "#8e24aa"
+    },
+    {
+      "id": "d4-17-00-Personal-Project",
+      "title": "Personal Project",
+      "description": "",
+      "day": 4,
+      "start": 1020,
+      "end": 1140,
+      "color": "#8e24aa"
+    },
+    {
+      "id": "d6-17-00-Personal-Project",
+      "title": "Personal Project",
+      "description": "",
+      "day": 6,
+      "start": 1020,
+      "end": 1140,
+      "color": "#8e24aa"
+    },
+    {
+      "id": "d0-19-00-Dinner",
+      "title": "Dinner",
+      "description": "",
+      "day": 0,
+      "start": 1140,
+      "end": 1170,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d1-19-00-Dinner",
+      "title": "Dinner",
+      "description": "",
+      "day": 1,
+      "start": 1140,
+      "end": 1170,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d3-19-00-Dinner",
+      "title": "Dinner",
+      "description": "",
+      "day": 3,
+      "start": 1140,
+      "end": 1170,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d4-19-00-Dinner",
+      "title": "Dinner",
+      "description": "",
+      "day": 4,
+      "start": 1140,
+      "end": 1170,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d6-19-00-Dinner",
+      "title": "Dinner",
+      "description": "",
+      "day": 6,
+      "start": 1140,
+      "end": 1170,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d0-19-30-Leisure-Prepare-for-bed",
+      "title": "Leisure/Prepare for bed",
+      "description": "",
+      "day": 0,
+      "start": 1170,
+      "end": 1260,
+      "color": "#e67c73"
+    },
+    {
+      "id": "d1-19-30-Leisure-Prepare-for-bed",
+      "title": "Leisure/Prepare for bed",
+      "description": "",
+      "day": 1,
+      "start": 1170,
+      "end": 1260,
+      "color": "#e67c73"
+    },
+    {
+      "id": "d3-19-30-Leisure-Prepare-for-bed",
+      "title": "Leisure/Prepare for bed",
+      "description": "",
+      "day": 3,
+      "start": 1170,
+      "end": 1260,
+      "color": "#e67c73"
+    },
+    {
+      "id": "d4-19-30-Leisure-Prepare-for-bed",
+      "title": "Leisure/Prepare for bed",
+      "description": "",
+      "day": 4,
+      "start": 1170,
+      "end": 1260,
+      "color": "#e67c73"
+    },
+    {
+      "id": "d6-19-30-Leisure-Prepare-for-bed",
+      "title": "Leisure/Prepare for bed",
+      "description": "",
+      "day": 6,
+      "start": 1170,
+      "end": 1260,
+      "color": "#e67c73"
+    },
+    {
+      "id": "d2-5-00-Wake-up-and-do-routine",
+      "title": "Wake up and do routine",
+      "description": "",
+      "day": 2,
+      "start": 300,
+      "end": 330,
+      "color": "#f6bf26"
+    },
+    {
+      "id": "d5-5-00-Wake-up-and-do-routine",
+      "title": "Wake up and do routine",
+      "description": "",
+      "day": 5,
+      "start": 300,
+      "end": 330,
+      "color": "#f6bf26"
+    },
+    {
+      "id": "d2-5-30-Workout",
+      "title": "Workout",
+      "description": "",
+      "day": 2,
+      "start": 330,
+      "end": 375,
+      "color": "#d50000"
+    },
+    {
+      "id": "d5-5-30-Workout",
+      "title": "Workout",
+      "description": "",
+      "day": 5,
+      "start": 330,
+      "end": 375,
+      "color": "#d50000"
+    },
+    {
+      "id": "d2-6-15-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 2,
+      "start": 375,
+      "end": 480,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d5-6-15-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 5,
+      "start": 375,
+      "end": 480,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d2-8-00-Breakfast",
+      "title": "Breakfast",
+      "description": "",
+      "day": 2,
+      "start": 480,
+      "end": 510,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d5-8-00-Breakfast",
+      "title": "Breakfast",
+      "description": "",
+      "day": 5,
+      "start": 480,
+      "end": 510,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d2-8-30-Wash-dishes",
+      "title": "Wash dishes",
+      "description": "",
+      "day": 2,
+      "start": 510,
+      "end": 540,
+      "color": "#616161"
+    },
+    {
+      "id": "d5-8-30-Wash-dishes",
+      "title": "Wash dishes",
+      "description": "",
+      "day": 5,
+      "start": 510,
+      "end": 540,
+      "color": "#616161"
+    },
+    {
+      "id": "d2-9-00-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 2,
+      "start": 540,
+      "end": 600,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d5-9-00-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 5,
+      "start": 540,
+      "end": 600,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d2-10-00-Break",
+      "title": "Break",
+      "description": "",
+      "day": 2,
+      "start": 600,
+      "end": 610,
+      "color": "#33b679"
+    },
+    {
+      "id": "d5-10-00-Break",
+      "title": "Break",
+      "description": "",
+      "day": 5,
+      "start": 600,
+      "end": 610,
+      "color": "#33b679"
+    },
+    {
+      "id": "d2-10-10-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 2,
+      "start": 610,
+      "end": 720,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d5-10-10-Learn-Math",
+      "title": "Learn Math",
+      "description": "",
+      "day": 5,
+      "start": 610,
+      "end": 720,
+      "color": "#3f51b5"
+    },
+    {
+      "id": "d2-12-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 2,
+      "start": 720,
+      "end": 780,
+      "color": "#039be5"
+    },
+    {
+      "id": "d5-12-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 5,
+      "start": 720,
+      "end": 780,
+      "color": "#039be5"
+    },
+    {
+      "id": "d2-13-00-Read-Book",
+      "title": "Read Book",
+      "description": "",
+      "day": 2,
+      "start": 780,
+      "end": 840,
+      "color": "#0b8043"
+    },
+    {
+      "id": "d5-13-00-Read-Book",
+      "title": "Read Book",
+      "description": "",
+      "day": 5,
+      "start": 780,
+      "end": 840,
+      "color": "#0b8043"
+    },
+    {
+      "id": "d2-14-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 2,
+      "start": 840,
+      "end": 990,
+      "color": "#039be5"
+    },
+    {
+      "id": "d5-14-00-Learn-Programming",
+      "title": "Learn Programming",
+      "description": "",
+      "day": 5,
+      "start": 840,
+      "end": 990,
+      "color": "#039be5"
+    },
+    {
+      "id": "d2-16-30-Shower",
+      "title": "Shower",
+      "description": "",
+      "day": 2,
+      "start": 990,
+      "end": 1020,
+      "color": "#7986cb"
+    },
+    {
+      "id": "d5-16-30-Shower",
+      "title": "Shower",
+      "description": "",
+      "day": 5,
+      "start": 990,
+      "end": 1020,
+      "color": "#7986cb"
+    },
+    {
+      "id": "d2-17-00-Personal-Project",
+      "title": "Personal Project",
+      "description": "",
+      "day": 2,
+      "start": 1020,
+      "end": 1140,
+      "color": "#8e24aa"
+    },
+    {
+      "id": "d5-17-00-Personal-Project",
+      "title": "Personal Project",
+      "description": "",
+      "day": 5,
+      "start": 1020,
+      "end": 1140,
+      "color": "#8e24aa"
+    },
+    {
+      "id": "d2-19-00-Dinner",
+      "title": "Dinner",
+      "description": "",
+      "day": 2,
+      "start": 1140,
+      "end": 1170,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d5-19-00-Dinner",
+      "title": "Dinner",
+      "description": "",
+      "day": 5,
+      "start": 1140,
+      "end": 1170,
+      "color": "#f4511e"
+    },
+    {
+      "id": "d2-19-30-Wash-dishes",
+      "title": "Wash dishes",
+      "description": "",
+      "day": 2,
+      "start": 1170,
+      "end": 1200,
+      "color": "#616161"
+    },
+    {
+      "id": "d5-19-30-Wash-dishes",
+      "title": "Wash dishes",
+      "description": "",
+      "day": 5,
+      "start": 1170,
+      "end": 1200,
+      "color": "#616161"
+    },
+    {
+      "id": "d2-20-00-Leisure-Prepare-for-bed",
+      "title": "Leisure/Prepare for bed",
+      "description": "",
+      "day": 2,
+      "start": 1200,
+      "end": 1260,
+      "color": "#e67c73"
+    },
+    {
+      "id": "d5-20-00-Leisure-Prepare-for-bed",
+      "title": "Leisure/Prepare for bed",
+      "description": "",
+      "day": 5,
+      "start": 1200,
+      "end": 1260,
+      "color": "#e67c73"
+    }
+  ]
+}
